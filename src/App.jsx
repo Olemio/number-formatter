@@ -1,8 +1,6 @@
 import React from 'react'
 import './App.css'
 
-console.log("art")
-
 function App() {
   const inputRef = React.useRef()
 
